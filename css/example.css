@@ -1,0 +1,10 @@
+@media screen and (min-width: 800px) {
+  #example1 .ruffwrap .ruffslide {
+    min-width: 50%;
+  }
+}
+@media screen and (min-width: 1000px) {
+  #example1 .ruffwrap .ruffslide {
+    min-width: 33.33333333%;
+  }
+}
