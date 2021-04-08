@@ -4,7 +4,7 @@
  * @version 0.0.1
  * @date 2021-04-08
  */
- let RuffSlider = function(options) {
+const RuffSlider = function(options) {
     let defaults = {
         selector: '.ruffslider',
         text: {

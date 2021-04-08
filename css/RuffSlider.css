@@ -1,3 +1,9 @@
+/**
+ * @desc Simple Slideshow based on CSS scroll-snap
+ * @author Dominik Kressler
+ * @version 0.0.1
+ * @date 2021-04-08
+ */
 .ruffslider {
   position: relative;
 }
